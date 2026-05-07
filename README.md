@@ -163,7 +163,7 @@ Para que a aplicação funcione corretamente, você deve:
 
 Caso tenha dúvidas sobre como criar ou configurar variáveis de ambiente, você pode consultar um outro projeto onde explico esse processo passo a passo.
 
-🔗 [Acesse aqui o guia completo](https://github.com/Kathlynleticia/conversor-de-moedas/tree/main)
+- [Acesse aqui o guia completo](https://github.com/Kathlynleticia/conversor-de-moedas/tree/main)
 
 ---
 
