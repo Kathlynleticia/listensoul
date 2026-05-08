@@ -21,6 +21,7 @@ public class Principal {
         var opcao = -1;
         while (opcao != 0) {
             var menu = """
+                    \n
                     1 - Cadastrar artistas
                     2 - Cadastrar músicas
                     3 - Listar músicas
