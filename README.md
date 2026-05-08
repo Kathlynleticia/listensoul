@@ -201,6 +201,17 @@ Ao executar, o sistema apresentará um menu no terminal com opções como:
 As operações são realizadas via entrada de dados pelo usuário.
 
 --- 
+## Demonstração - Execução do Sistema
+<br>
+
+![menu](images/menu.jpg)<br>
+<br>
+![Cadastro artista](images/cadastro-artista.jpg)<br>
+<br>
+![Cadastro Música](images/cadastro-musica.jpg)<br>
+
+---
+
 
 ### Observações
 - A aplicação não implementa um CRUD completo (não possui update/delete).
